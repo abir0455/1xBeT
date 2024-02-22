@@ -1,1 +1,8 @@
-![Uploading WhatsApp Image 2024-02-22 at 12.14.40_470be771.jpg…]()
+
+rm -rf 1xBeT
+
+git clone https://github.com/abir0455/1xBeT
+
+cd 1xBeT
+
+python 1xBeT.py
